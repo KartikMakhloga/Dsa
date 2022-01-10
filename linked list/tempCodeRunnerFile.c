@@ -1,0 +1,1 @@
+printf("displaying list before insertion\n");
