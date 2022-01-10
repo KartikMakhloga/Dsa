@@ -18,7 +18,6 @@ void InOrder(struct node* root){
        }
 }
 
-ksldfkubgkjszdgios
 
 struct node* createnode(int data){
     struct node* n=(struct node*)malloc(sizeof(struct node));
