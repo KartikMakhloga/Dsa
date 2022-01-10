@@ -17,7 +17,7 @@ void InOrder(struct node* root){
            
        }
 }
-kdjsvbkjvbcx vn vm
+
 
 struct node* createnode(int data){
     struct node* n=(struct node*)malloc(sizeof(struct node));
